@@ -1,0 +1,174 @@
+{
+  "users": [
+    {
+      "name": "ashish",
+      "email": "ashi@test.com",
+      "password": "ashi@123",
+      "id": 1
+    },
+    {
+      "name": "anshika",
+      "email": "anshi@test.com",
+      "password": "anshi@123",
+      "id": 2
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "anil@123",
+      "id": 3
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "anil@123",
+      "id": 4
+    },
+    {
+      "name": "ayub",
+      "email": "ayub@test.com",
+      "password": "ayub@123",
+      "id": 5
+    },
+    {
+      "name": "manish",
+      "email": "mani@test.com",
+      "password": "mani@123",
+      "id": 6
+    },
+    {
+      "name": "new",
+      "email": "new@test.com",
+      "password": "new@123",
+      "id": 7
+    },
+    {
+      "name": "new1",
+      "email": "new1@test.com",
+      "password": "new1@123",
+      "id": 8
+    },
+    {
+      "name": "ashish",
+      "email": "ashi@test.com",
+      "password": "ashi!2",
+      "id": 9
+    },
+    {
+      "name": "anshikasingh",
+      "email": "ansh@test.com",
+      "password": "ansh",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "s",
+      "password": "s",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "name": 0,
+      "email": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "name": "j",
+      "email": "k",
+      "password": "",
+      "id": 18
+    },
+    {
+      "name": "j",
+      "email": "k",
+      "password": "",
+      "id": 19
+    },
+    {
+      "name": "j",
+      "email": "k",
+      "password": "f",
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 21
+    },
+    {
+      "name": "w",
+      "email": "",
+      "password": "",
+      "id": 22
+    },
+    {
+      "name": "w",
+      "email": "sss",
+      "password": "",
+      "id": 23
+    },
+    {
+      "name": "w",
+      "email": "sss",
+      "password": "",
+      "id": 24
+    }
+  ],
+  "restro": [
+    {
+      "id": 1,
+      "name": "kfc",
+      "address": "sec 30",
+      "contact": "9999"
+    },
+    {
+      "id": 2,
+      "name": "dominose",
+      "address": "sec 31",
+      "contact": "8888"
+    },
+    {
+      "name": "new",
+      "address": "sec51",
+      "contact": "6666",
+      "id": 3
+    },
+    {
+      "name": "new restro",
+      "address": "sec 67",
+      "contact": "98898",
+      "id": 4
+    }
+  ]
+}
